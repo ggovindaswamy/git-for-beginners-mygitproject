@@ -1,3 +1,3 @@
 Welcome to MyGitProject!
 
-Authur: Guna
+Authur: Guna  Govindaswamy (gg)
